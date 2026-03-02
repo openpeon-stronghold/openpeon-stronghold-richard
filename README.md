@@ -1,34 +1,38 @@
-# stronghold-richard
+<p align="center">
+  <img src="https://raw.githubusercontent.com/openpeon-stronghold/richard/main/icon.png" width="128" alt="King Richard">
+</p>
+
+<h1 align="center">King Richard</h1>
 
 Richard the Lionheart sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) — voice lines from Richard the Lionheart in Stronghold Crusader.
 
 ## Install
 
 ```bash
-peon packs install stronghold-richard
+peon packs install richard
 ```
 
 ## Sounds
 
 | Category | File | Label |
 |---|---|---|
-| `session.start` | ri_add_player_01.wav | Well done |
-| `task.acknowledge` | ri_willattack_01.wav | I march |
-| `task.acknowledge` | ri_sent_01.wav | Already dispatched |
-| `task.acknowledge` | ri_siege_01.wav | Men in great heart |
-| `task.complete` | ri_vict_01.wav | The lion roars |
-| `task.complete` | ri_vict_04.wav | Sound the fanfare |
-| `task.complete` | ri_boast_01.wav | Another false lord fallen |
-| `task.error` | ri_anger_01.wav | You fight like a man |
-| `task.error` | ri_anger_02.wav | How about a fair fight |
-| `input.required` | ri_help_01.wav | Royal standard in peril |
-| `input.required` | ri_nervous_02.wav | A king must cower |
-| `input.required` | ri_req_01.wav | In short supply |
-| `resource.limit` | ri_notsent_01.wav | Cannot send goods |
-| `resource.limit` | ri_nohelp_01.wav | These are lean times |
-| `user.spam` | ri_noattack_01.wav | None but a fool |
-| `user.spam` | ri_noattack_02.wav | More important plans |
-| `user.spam` | ri_kick_player_01.wav | Afraid? |
+| `session.start` | ri_add_player_01.mp3 | Well done |
+| `task.acknowledge` | ri_willattack_01.mp3 | I march |
+| `task.acknowledge` | ri_sent_01.mp3 | Already dispatched |
+| `task.acknowledge` | ri_siege_01.mp3 | Men in great heart |
+| `task.complete` | ri_vict_01.mp3 | The lion roars |
+| `task.complete` | ri_vict_04.mp3 | Sound the fanfare |
+| `task.complete` | ri_boast_01.mp3 | Another false lord fallen |
+| `task.error` | ri_anger_01.mp3 | You fight like a man |
+| `task.error` | ri_anger_02.mp3 | How about a fair fight |
+| `input.required` | ri_help_01.mp3 | Royal standard in peril |
+| `input.required` | ri_nervous_02.mp3 | A king must cower |
+| `input.required` | ri_req_01.mp3 | In short supply |
+| `resource.limit` | ri_notsent_01.mp3 | Cannot send goods |
+| `resource.limit` | ri_nohelp_01.mp3 | These are lean times |
+| `user.spam` | ri_noattack_01.mp3 | None but a fool |
+| `user.spam` | ri_noattack_02.mp3 | More important plans |
+| `user.spam` | ri_kick_player_01.mp3 | Afraid? |
 
 ## Extras
 
@@ -36,22 +40,22 @@ The `sounds/extras/` folder contains all remaining voice lines from Richard the 
 
 | File | Type |
 |---|---|
-| ri_ally_death_01.wav | ally died |
-| ri_congrats_01.wav | congratulations |
-| ri_extra_01.wav | extra line |
-| ri_helpsent_01.wav | help sent |
-| ri_nervous_01.wav | nervous |
-| ri_nohelp_02.wav | refuse help |
-| ri_plead_01.wav | plead |
-| ri_taunt_01.wav | taunt |
-| ri_taunt_02.wav | taunt |
-| ri_taunt_03.wav | taunt |
-| ri_taunt_04.wav | taunt |
-| ri_team_losing_01.wav | team losing |
-| ri_team_winning_01.wav | team winning |
-| ri_thanks_01.wav | thanks |
-| ri_vict_02.wav | victory |
-| ri_vict_03.wav | victory |
+| ri_ally_death_01.mp3 | ally died |
+| ri_congrats_01.mp3 | congratulations |
+| ri_extra_01.mp3 | extra line |
+| ri_helpsent_01.mp3 | help sent |
+| ri_nervous_01.mp3 | nervous |
+| ri_nohelp_02.mp3 | refuse help |
+| ri_plead_01.mp3 | plead |
+| ri_taunt_01.mp3 | taunt |
+| ri_taunt_02.mp3 | taunt |
+| ri_taunt_03.mp3 | taunt |
+| ri_taunt_04.mp3 | taunt |
+| ri_team_losing_01.mp3 | team losing |
+| ri_team_winning_01.mp3 | team winning |
+| ri_thanks_01.mp3 | thanks |
+| ri_vict_02.mp3 | victory |
+| ri_vict_03.mp3 | victory |
 
 ## Generic speeches
 
