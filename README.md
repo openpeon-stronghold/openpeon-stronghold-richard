@@ -6,6 +6,8 @@
 
 Richard the Lionheart sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) — voice lines from Richard the Lionheart in Stronghold Crusader.
 
+King Richard the Lionheart is the paragon of crusader chivalry — noble, brave, and driven by a profound sense of honour. He speaks with the calm authority of a born commander and inspires fierce loyalty, though his idealism can sometimes blind him to the political realities of coalition warfare.
+
 ## Install
 
 ```bash
